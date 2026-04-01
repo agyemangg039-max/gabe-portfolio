@@ -1,3 +1,11 @@
 # Portfolio Website
 
-My beginner portfolio website built with HTML and CSS to showcase my background, skills, and projects.
+My beginner computer science portfolio built with HTML and CSS.
+
+## About
+This website showcases my background, skills, and projects.
+
+## Projects
+- Notes App
+- Calculator App
+- Portfolio Website
